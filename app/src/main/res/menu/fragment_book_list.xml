@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--<item-->
+    <!--android:id="@+id/menu_item_new_book"-->
+    <!--android:icon="@drawable/ic_menu_add"-->
+    <!--android:title="@string/new_book"-->
+    <!--app:showAsAction="ifRoom" />-->
+
+    <item
+        android:id="@+id/menu_item_show_subtitle"
+        android:title="@string/show_subtitle" />
+
+    <item
+        android:id="@+id/menu_item_sort_title"
+        android:checkable="false"
+        android:checked="false"
+        android:title="@string/sort_by_title" />
+
+    <item
+        android:id="@+id/menu_item_sort_author"
+        android:checkable="false"
+        android:checked="false"
+        android:title="@string/sort_by_author" />
+
+    <item
+        android:id="@+id/menu_item_sort_date"
+        android:checkable="false"
+        android:checked="false"
+        android:title="@string/sort_by_date_added" />
+
+    <item
+        android:id="@+id/menu_item_delete_all"
+        android:title="@string/delete_all"
+        />
+
+    <item
+        android:id="@+id/menu_item_about"
+        android:icon="@drawable/ic_info"
+        android:title="@string/about"
+        app:showAsAction="never" />
+
+
+</menu>

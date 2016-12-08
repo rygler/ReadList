@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_item_delete_book"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/delete_book"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item android:id="@+id/menu_item_share_book"
+        android:icon="@drawable/ic_share"
+        android:title="Share Book"
+        app:showAsAction="ifRoom|withText"/>
+</menu>

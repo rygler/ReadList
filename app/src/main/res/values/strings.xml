@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ReadList</string>
+    <string name="book_title_hint">Enter a title for the book.</string>
+    <string name="book_title_label">Title</string>
+    <string name="book_details_label">Details</string>
+    <string name="book_read_label">Read</string>
+    <string name="date_picker_title">Date of Book</string>
+    <string name="new_book">New Book</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s books</string>
+    <string name="delete_book">Delete Book</string>
+    <string name="book_author_label">Author</string>
+    <string name="book_author_hint">Enter the name of author.</string>
+    <string name="about">About</string>
+    <string name="aboutDialogTitle">About ReadList</string>
+    <string name="aboutDialog_banner">Created by Raphael Gal and Benny Ioschikhes</string>
+    <string name="OK">OK</string>
+    <string name="share_button_text">Share Book</string>
+    <string name="book_report_title">Book Title: </string>
+    <string name="book_report_author">Book Author: </string>
+    <string name="book_report_note">Note: </string>
+    <string name="send_report">Send book report via</string>
+    <string name="sent_by">Sent by ReadList</string>
+    <string name="book_note_label">Note</string>
+    <string name="book_note_hint">Enter note for the book.</string>
+    <string name="author_unknown">Author Unknown</string>
+    <string name="title_unknown">Title Unknown</string>
+    <string name="book_search_label">Search</string>
+    <string name="google">Google</string>
+    <string name="amazon">Amazon</string>
+    <string name="google_search_query">"https://encrypted.google.com/#q="</string>
+    <string name="amazon_search_query">"http://www.amazon.com/s?url=search-alias%3Daps&amp;field-keywords="</string>
+    <string name="book_deleted">Book Deleted</string>
+    <string name="sort_by_author">Sort by Author</string>
+    <string name="sort_by_title">Sort by Title</string>
+    <string name="sort_by_date_added">Sort by Date Added</string>
+    <string name="delete_all">Delete All</string>
+
+</resources>
